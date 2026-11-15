@@ -28,13 +28,13 @@
 
 <div align="center">
 
-<a href="https://youtu.be/yAv5pLO37mE">
+<a href="https://www.youtube.com/watch?v=BZYKpH7juWA">
   <img src="https://img.youtube.com/vi/yAv5pLO37mE/maxresdefault.jpg" width="100%" alt="MaxMiner Product Showcase">
 </a>
 
 <br><br>
 
-<a href="https://youtu.be/yAv5pLO37mE">
+<a href="https://www.youtube.com/watch?v=BZYKpH7juWA">
   <img src="https://img.shields.io/badge/Watch_Full_Product_Showcase-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch MaxMiner Product Showcase on YouTube">
 </a>
 
