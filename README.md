@@ -1,7 +1,4 @@
 <div align="center">
-
-<img src="https://img.icons8.com/ios-filled/100/2563EB/server.png" width="72" height="72" alt="MaxMiner">
-
 # MaxMiner
 
 ### Advanced Mining Management Platform
