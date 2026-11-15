@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://api.iconify.design/lucide:pickaxe.svg?color=%237c3aed" width="72" height="72" alt="MaxMiner">
+<img src="https://img.icons8.com/fluency/96/server.png" width="80" height="80" alt="MaxMiner">
 
 # MaxMiner
 
@@ -10,7 +10,7 @@
 ![Real-Time Monitoring](https://img.shields.io/badge/Real--Time-Monitoring-2563EB?style=for-the-badge)
 ![Enterprise Ready](https://img.shields.io/badge/Enterprise-Ready-16A34A?style=for-the-badge)
 
-<br>
+<br><br>
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
@@ -21,6 +21,24 @@
 ![TimescaleDB](https://img.shields.io/badge/TimescaleDB-FDB515?style=flat-square&logo=postgresql&logoColor=black)
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
 ![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=flat-square&logo=google&logoColor=white)
+
+</div>
+
+---
+
+## Product Showcase
+
+<div align="center">
+
+<a href="https://youtu.be/yAv5pLO37mE">
+  <img src="https://img.youtube.com/vi/yAv5pLO37mE/maxresdefault.jpg" width="100%" alt="MaxMiner Product Showcase">
+</a>
+
+<br><br>
+
+<a href="https://youtu.be/yAv5pLO37mE">
+  <img src="https://img.shields.io/badge/Watch_Full_Product_Showcase-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch MaxMiner Product Showcase on YouTube">
+</a>
 
 </div>
 
@@ -43,92 +61,92 @@ MaxMiner Has Been Developed Using Technologies Such as Go, Rust, Python, React, 
 
 <table>
 <tr>
-<td align="center" width="52">
-<img src="https://api.iconify.design/lucide:calendar-clock.svg?color=%237c3aed" width="26" height="26" alt="Profile Automation">
+<td align="center" width="58">
+<img src="https://img.icons8.com/fluency/48/schedule.png" width="30" height="30" alt="Profile Automation">
 </td>
 <td>Automatic Profile Switching Based on Time, Temperature, and Operating Conditions</td>
 </tr>
 
 <tr>
 <td align="center">
-<img src="https://api.iconify.design/lucide:circle-dollar-sign.svg?color=%237c3aed" width="26" height="26" alt="Profit Calculation">
+<img src="https://img.icons8.com/fluency/48/profit.png" width="30" height="30" alt="Profit Calculation">
 </td>
 <td>Net Profit Calculation Using Configurable Electricity Pricing, Exchange Rates, Operational Costs, and Other Financial Profiles</td>
 </tr>
 
 <tr>
 <td align="center">
-<img src="https://api.iconify.design/lucide:chart-no-axes-combined.svg?color=%237c3aed" width="26" height="26" alt="Efficiency Detection">
+<img src="https://img.icons8.com/fluency/48/combo-chart.png" width="30" height="30" alt="Efficiency Detection">
 </td>
 <td>Hashboard Efficiency Degradation Detection</td>
 </tr>
 
 <tr>
 <td align="center">
-<img src="https://api.iconify.design/lucide:shield-check.svg?color=%237c3aed" width="26" height="26" alt="Protection Systems">
+<img src="https://img.icons8.com/fluency/48/shield.png" width="30" height="30" alt="Protection Systems">
 </td>
 <td>Protection Systems for Power Fluctuations and Internet Outages</td>
 </tr>
 
 <tr>
 <td align="center">
-<img src="https://api.iconify.design/lucide:thermometer-sun.svg?color=%237c3aed" width="26" height="26" alt="Thermal Protection">
+<img src="https://img.icons8.com/fluency/48/temperature.png" width="30" height="30" alt="Thermal Protection">
 </td>
 <td>Automatic Shutdown and Emergency Capacity Reduction, Including Limiting Devices to 50% Capacity Under Critical Temperatures or Operating Conditions</td>
 </tr>
 
 <tr>
 <td align="center">
-<img src="https://api.iconify.design/lucide:shield-lock.svg?color=%237c3aed" width="26" height="26" alt="Network Security">
+<img src="https://img.icons8.com/fluency/48/cyber-security.png" width="30" height="30" alt="Network Security">
 </td>
 <td>Network and Data Protection Systems, Including Restricting Access to Miner IP Addresses and Preventing Unauthorized Services from Discovering, Tracking, or Accessing the Devices</td>
 </tr>
 
 <tr>
 <td align="center">
-<img src="https://api.iconify.design/lucide:network.svg?color=%237c3aed" width="26" height="26" alt="Device Grouping">
+<img src="https://img.icons8.com/fluency/48/multiple-devices.png" width="30" height="30" alt="Device Grouping">
 </td>
 <td>Device Grouping and Centralized Management Across Multiple MaxMiner Panels</td>
 </tr>
 
 <tr>
 <td align="center">
-<img src="https://api.iconify.design/lucide:layers-3.svg?color=%237c3aed" width="26" height="26" alt="Bulk Configuration">
+<img src="https://img.icons8.com/fluency/48/settings.png" width="30" height="30" alt="Bulk Configuration">
 </td>
 <td>Bulk Pool and Wallet Configuration for Multiple Devices</td>
 </tr>
 
 <tr>
 <td align="center">
-<img src="https://api.iconify.design/lucide:bell-ring.svg?color=%237c3aed" width="26" height="26" alt="Alert System">
+<img src="https://img.icons8.com/fluency/48/appointment-reminders.png" width="30" height="30" alt="Alert System">
 </td>
 <td>An Alert System Connected to a Telegram Bot for Reporting Urgent Events Such as Hashrate Drops, High Temperatures, Power Fluctuations, and Outages</td>
 </tr>
 
 <tr>
 <td align="center">
-<img src="https://api.iconify.design/lucide:zap.svg?color=%237c3aed" width="26" height="26" alt="Power Services">
+<img src="https://img.icons8.com/fluency/48/lightning-bolt.png" width="30" height="30" alt="Power Services">
 </td>
 <td>Integration with International Power Outage Notification Services, as Well as "توانیر" Services for Users in Iran</td>
 </tr>
 
 <tr>
 <td align="center">
-<img src="https://api.iconify.design/lucide:landmark.svg?color=%237c3aed" width="26" height="26" alt="Financial Management">
+<img src="https://img.icons8.com/fluency/48/accounting.png" width="30" height="30" alt="Financial Management">
 </td>
 <td>A Financial Management Panel with Daily Reporting</td>
 </tr>
 
 <tr>
 <td align="center">
-<img src="https://api.iconify.design/lucide:gauge.svg?color=%237c3aed" width="26" height="26" alt="Voltage Management">
+<img src="https://img.icons8.com/fluency/48/electrical.png" width="30" height="30" alt="Voltage Management">
 </td>
 <td>Advanced Transformer, Power Supply, and Miner Voltage Management</td>
 </tr>
 
 <tr>
 <td align="center">
-<img src="https://api.iconify.design/lucide:cloud-lock.svg?color=%237c3aed" width="26" height="26" alt="Secure Remote Access">
+<img src="https://img.icons8.com/fluency/48/cloud-checked.png" width="30" height="30" alt="Secure Remote Access">
 </td>
 <td>Secure Remote Access Without Requiring a VPN, Implemented Through a Specialized Cloudflare-Based Architecture</td>
 </tr>
@@ -152,7 +170,7 @@ Building MaxMiner Took Serious Effort, and We Appreciate Everyone Who Backed the
 
 <div align="center">
 
-<img src="https://api.iconify.design/lucide:server-cog.svg?color=%237c3aed" width="42" height="42" alt="MaxMiner">
+<img src="https://img.icons8.com/fluency/96/data-center.png" width="56" height="56" alt="MaxMiner">
 
 ### MaxMiner
 
