@@ -1,4 +1,5 @@
 <div align="center">
+  
 # MaxMiner
 
 ### Advanced Mining Management Platform
