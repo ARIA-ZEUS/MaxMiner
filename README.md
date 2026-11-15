@@ -29,7 +29,7 @@
 <div align="center">
 
 <a href="https://www.youtube.com/watch?v=BZYKpH7juWA">
-  <img src="https://img.youtube.com/vi/yAv5pLO37mE/maxresdefault.jpg" width="100%" alt="MaxMiner Product Showcase">
+  <img src="https://i.ytimg.com/vi/BZYKpH7juWA/maxresdefault.jpg?v=2" width="100%" alt="MaxMiner Product Showcase">
 </a>
 
 <br><br>
